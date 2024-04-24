@@ -1,0 +1,7 @@
+{
+  "extends": "astro/tsconfigs/strict",
+  // https://docs.astro.build/en/guides/content-collections/#setting-up-typescript
+  "compilerOptions": {
+    "strictNullChecks": true
+  }
+}
